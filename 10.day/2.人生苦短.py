@@ -1,0 +1,6 @@
+x = ('人生苦短，我用python,life is shor')
+print(x)
+print(x.count('p'))
+print(x.count('i'))
+print(x.find('s'))
+print(x.upper())
